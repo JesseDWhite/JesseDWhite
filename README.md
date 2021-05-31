@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=merko)
+![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&layout=compact)](https://github.com/JesseDWhite/github-readme-stats)
+
 
 - 🏫 I'm currently attending Epicodus C# track
 - 🌱 I’m currently learning C#/.NET
