@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=JesseDWhite&color=blueviolet)
 
 ## Here is some basic info about me
-- 🏫 I'm currently attending Epicodus C# track
+- 🏫 I'm attending Epicodus C# track
 - 🌱 I’m currently learning C#/.NET
 - ☕ My favorite language so far is Javascript
 - 💬 Ask me about music!
