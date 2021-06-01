@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> I'm Jesse, thanks for viewing my profile!
 
-![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=merko) 
+![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=synthwave) 
 
 ![](https://komarev.com/ghpvc/?username=JesseDWhite&color=blueviolet)
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me: jesse.white6@gmail.com
 - 😄 Pronouns: He/Him/His
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=merko)](https://github.com/JesseDWhite/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=synthwave)](https://github.com/JesseDWhite/github-readme-stats)
  
  ## These are some languages I have learned
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
