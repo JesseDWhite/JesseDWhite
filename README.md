@@ -1,4 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> I'm Jesse, thanks for viewing my profile!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> 
+
+## _I'm Jesse, thanks for viewing my profile!_
 
 ![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=radical&hide_border=true) 
 
