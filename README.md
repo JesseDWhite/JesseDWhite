@@ -9,7 +9,7 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=algolia&hide_border=true">
 </p>
 
-<h2>Here is some basic info about me</h2>
+## Here is some basic info about me
 <ul>
 <li>🏫 I'm attending Epicodus C# track</li>
 <li>🌱 I’m currently learning C#/.NET</li>
