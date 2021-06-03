@@ -1,13 +1,10 @@
 <div align="center">
 <h1>HEY THERE <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1>
 <br>
+</div>
 <h2><em>I'm Jesse, thanks for viewing my profile!</em></h2>
 <img width="15%" src="https://komarev.com/ghpvc/?username=JesseDWhite&color=blueviolet">
-</div>
-
-<p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=algolia&hide_border=true">
-</p>
 
 <h2>Here is some basic info about me</h2>
 <ul>
