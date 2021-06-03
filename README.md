@@ -19,7 +19,7 @@
 <li>😄 Pronouns: He/Him/His</li>
  </ul>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=algolia&hide_border=true&layout=compact)](https://github.com/JesseDWhite/github-readme-stats">
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=algolia&hide_border=true&layout=compact)](https://github.com/JesseDWhite/github-readme-stats)
  
  <h2>Languages and Tools</h2>
  <div>
