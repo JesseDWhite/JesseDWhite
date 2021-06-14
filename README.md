@@ -3,9 +3,17 @@
  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width=600px>
 <br>
 </div>
-<h2><em>I'm Jesse, thanks for viewing my profile!</em></h2>
+<div>
+<h2><em>I'm Jesse, thanks for viewing my profile!</em>
 <img width="15%" src="https://komarev.com/ghpvc/?username=JesseDWhite&color=blueviolet">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=algolia&hide_border=true">
+</h2>
+</div>
+<div>
+<img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=JesseDWhite&show_icons=true&theme=algolia&hide_border=true" width="45%" />
+
+<img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="45%"/>
+</div>
+<!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=algolia&hide_border=true"> -->
 
 <h2>Here is some basic info about me</h2>
 <ul>
@@ -16,8 +24,6 @@
 <li>📫 How to reach me: jesse.white6@gmail.com</li>
 <li>😄 Pronouns: He/Him/His</li>
  </ul>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=algolia&hide_border=true&layout=compact)](https://github.com/JesseDWhite/github-readme-stats)
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=super-galactic-age-calculator)](https://github.com/JesseDWhite/super-galactic-age-calculator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=Factory.Solution)](https://github.com/JesseDWhite/Factory.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=currency-exchange)](https://github.com/JesseDWhite/currency-exchange) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=AnimalShelter.Solution)](https://github.com/JesseDWhite/AnimalShelter.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=mr-robogers-neighborhood)](https://github.com/JesseDWhite/mr-robogers-neighborhood) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=pizza-parlor)](https://github.com/JesseDWhite/pizza-parlor)
 
