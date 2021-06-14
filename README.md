@@ -17,10 +17,9 @@
  </ul>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=algolia&hide_border=true&layout=compact)](https://github.com/JesseDWhite/github-readme-stats)
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)
-"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=Factory.Solution&theme=algolia&hide_border=true)"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=currency-exchange&theme=algolia&hide_border=true)"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=pizza-parlor&theme=algolia&hide_border=true)"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=mr-robogers-neighborhood&theme=algolia&hide_border=true)"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=AnimalShelter.Solution&theme=algolia&hide_border=true)">
-</div>
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=super-galactic-age-calculator)](https://github.com/JesseDWhite/super-galactic-age-calculator)
+
  
  <h2>Languages and Tools</h2>
  <div>
