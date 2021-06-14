@@ -3,12 +3,12 @@
  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width=600px>
 <br>
 </div>
-<div>
+<div align=center>
 <h2><em>I'm Jesse, thanks for viewing my profile!</em>
 <img width="15%" src="https://komarev.com/ghpvc/?username=JesseDWhite&color=blueviolet">
 </h2>
 </div>
-<div>
+<div align=center>
 <img style="display:inline-block" src="https://github-readme-stats.vercel.app/api//?username=JesseDWhite&show_icons=true&theme=algolia&hide_border=true" width="45%" />
 
 <img style="display:inline-block; float:right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&layout=compact&show_icons=true&theme=algolia&hide_border=true" width="45%"/>
