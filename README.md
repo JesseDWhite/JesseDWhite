@@ -18,7 +18,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=algolia&hide_border=true&layout=compact)](https://github.com/JesseDWhite/github-readme-stats)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=super-galactic-age-calculator)](https://github.com/JesseDWhite/super-galactic-age-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=super-galactic-age-calculator)](https://github.com/JesseDWhite/super-galactic-age-calculator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=Factory.Solution)](https://github.com/JesseDWhite/Factory.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=currency-exchange)](https://github.com/JesseDWhite/currency-exchange) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=AnimalShelter.Solution)](https://github.com/JesseDWhite/AnimalShelter.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=mr-robogers-neighborhood)](https://github.com/JesseDWhite/mr-robogers-neighborhood) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=pizza-parlor)](https://github.com/JesseDWhite/pizza-parlor)
 
  
  <h2>Languages and Tools</h2>
