@@ -18,7 +18,7 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseDWhite&theme=algolia&hide_border=true&layout=compact)](https://github.com/JesseDWhite/github-readme-stats)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&repo=super-galactic-age-calculator&theme=algolia&hide_border=true)](https://github.com/JesseDWhite/super-galactic-age-calculator)
  
  <h2>Languages and Tools</h2>
  <div>
