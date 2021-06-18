@@ -18,7 +18,7 @@
 <h2>Here is some basic info about me</h2>
 <ul>
 <li>🏫 I'm attending Epicodus C# track</li>
-<li>🌱 I’m currently learning C#/.NET</li>
+<li>🌱 I’m currently learning React</li>
 <li>☕ My favorite language so far is Javascript</li>
 <li>💬 Ask me about music!</li>
 <li>📫 How to reach me: jesse.white6@gmail.com</li>
