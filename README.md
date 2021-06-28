@@ -1,6 +1,7 @@
 <div align="center">
 <!-- <h1>HEY THERE! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1> -->
  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width=600px>
+
 <br>
 </div>
 <div align=center>
@@ -36,6 +37,8 @@
 
 <div align=center>
 <h2>Currently Coding To</h2>
+
+<img src="https://media.giphy.com/media/ZXB6TlgqIKJ3HP5aLD/giphy.gif" width="200px" style="display:inline-block; float:left">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1242479712&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </div>
