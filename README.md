@@ -36,7 +36,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=super-galactic-age-calculator)](https://github.com/JesseDWhite/super-galactic-age-calculator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=Factory.Solution)](https://github.com/JesseDWhite/Factory.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=currency-exchange)](https://github.com/JesseDWhite/currency-exchange) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=AnimalShelter.Solution)](https://github.com/JesseDWhite/AnimalShelter.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=mr-robogers-neighborhood)](https://github.com/JesseDWhite/mr-robogers-neighborhood) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=pizza-parlor)](https://github.com/JesseDWhite/pizza-parlor)
 
 <div align=center>
-<h2>Currently Coding To</h2>
+<h2>Currently Coding To: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"></h2>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=1242479712&cover_image=true&theme=novatorem" width="50%">
 </div>
 <div align=center>
