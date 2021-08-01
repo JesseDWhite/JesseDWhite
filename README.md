@@ -16,7 +16,7 @@
 </div>
 <!-- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=JesseDWhite&show_icons=true&theme=algolia&hide_border=true"> -->
 
-<h2>Here is some basic info about me <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="50px"></h2>
+<h2>Here is some basic info about me <img src="https://media.giphy.com/media/Pjlv9OiMg5YqFfPvhF/giphy.gif" width="50px"></h2>
 <ul>
 <li>🏫 I'm attending Epicodus C# track</li>
 <li>🌱 I’m currently learning React</li>
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=super-galactic-age-calculator)](https://github.com/JesseDWhite/super-galactic-age-calculator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=Factory.Solution)](https://github.com/JesseDWhite/Factory.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=currency-exchange)](https://github.com/JesseDWhite/currency-exchange) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=AnimalShelter.Solution)](https://github.com/JesseDWhite/AnimalShelter.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=mr-robogers-neighborhood)](https://github.com/JesseDWhite/mr-robogers-neighborhood) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=pizza-parlor)](https://github.com/JesseDWhite/pizza-parlor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=no-more-cover-letter)](https://github.com/JesseDWhite/no-more-cover-letter) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=super-galactic-age-calculator)](https://github.com/JesseDWhite/super-galactic-age-calculator) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=Factory.Solution)](https://github.com/JesseDWhite/Factory.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=currency-exchange)](https://github.com/JesseDWhite/currency-exchange) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=AnimalShelter.Solution)](https://github.com/JesseDWhite/AnimalShelter.Solution) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=mr-robogers-neighborhood)](https://github.com/JesseDWhite/mr-robogers-neighborhood) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JesseDWhite&theme=algolia&hide_border=true&repo=pizza-parlor)](https://github.com/JesseDWhite/pizza-parlor)
  
 </div>
 
