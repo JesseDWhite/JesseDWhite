@@ -19,8 +19,9 @@
 <h2>Here is some basic info about me <img src="https://media.giphy.com/media/Pjlv9OiMg5YqFfPvhF/giphy.gif" width="50px"></h2>
 <ul>
 <li>🏫 I'm gradutated from Epicodus C# track</li>
-<li>🌱 I’m currently learning React</li>
+<li>🌱 I’m currently interning at VALIDATE</li>
 <li>☕ My favorite language so far is Javascript</li>
+<li>⚛️ My favorite framework so far is React</li>
 <li>💬 Ask me about music!</li>
 <li>📫 How to reach me: jesse.white6@gmail.com</li>
 <li>😄 Pronouns: He/Him/His</li>
