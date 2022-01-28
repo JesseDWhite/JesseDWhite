@@ -46,5 +46,5 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=1242479712&cover_image=true&theme=novatorem" width="50%">
 </div>
 <div align=center>
-<img src="https://media.giphy.com/media/ZXB6TlgqIKJ3HP5aLD/giphy.gif" width="40%">
+<img src="https://media.giphy.com/media/v4e8CHbGkfe8g/giphy.gif" width="50%">
 </div>
