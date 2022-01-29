@@ -1,6 +1,6 @@
 <div align="center">
 <!-- <h1>HEY THERE! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"></h1> -->
-<img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width=600px>
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width=600px>
 
 <br>
 </div>
