@@ -17,7 +17,7 @@
 <h2>Here is some basic info about me <img src="https://media.giphy.com/media/Pjlv9OiMg5YqFfPvhF/giphy.gif" width="50px"></h2>
 <ul>
 <li>🏫 I gradutated from Epicodus C# track</li>
-<li>🌱 I’m currently working as a Software Developer at VALIDATE & SimBco</li>
+<li>🌱 I’m currently working as a Software Developer at The Gartrell Group</li>
 <li>☕ My favorite language so far is Javascript</li>
 <li>⚛️ My favorite framework/library so far is React</li>
 <li>💬 Ask me about music!</li>
